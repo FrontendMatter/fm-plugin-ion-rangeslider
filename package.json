@@ -1,0 +1,18 @@
+{
+  "name": "fm-plugin-ion-rangeslider",
+  "version": "1.0.0",
+  "author": "FrontendMatter <contact@frontendmatter.com> (http://www.frontendmatter.com)",
+  "license": "UNLICENSED",
+  "main": "js/ion-rangeslider.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrontendMatter/fm-plugin-ion-rangeslider.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FrontendMatter/fm-plugin-ion-rangeslider/issues"
+  },
+  "homepage": "https://github.com/FrontendMatter/fm-plugin-ion-rangeslider#readme",
+  "dependencies": {
+    "ion-rangeslider": "^2.3.1"
+  }
+}
